@@ -1,0 +1,20 @@
+node_modules
+.git
+.gitignore
+.prettierrc
+
+# yarn
+yarn-error.log
+
+# node
+# package-lock.json
+
+# docker
+Dockerfile
+docker-compose.yml
+
+README.md
+Noted.txt
+
+node_modules/
+build/
