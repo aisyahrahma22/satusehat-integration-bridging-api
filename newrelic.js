@@ -9,7 +9,7 @@ exports.config = {
   /**
   * Array of application names.
   */
-  app_name: ['[PROD] SATU-SEHAT-BRIDGING Service'],
+  app_name: ['SATUSEHAT-BRIDGING Service'],
   /**
   * Your New Relic license key.
   */

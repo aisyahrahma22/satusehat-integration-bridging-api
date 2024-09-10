@@ -92,16 +92,6 @@ export async function setHandler(
           value: body.phone,
           use: "work"
         },
-        // {
-        //   system: "email",
-        //   value: "support@aido.id",
-        //   use: "work"
-        // },
-        // {
-        //   system: "url",
-        //   value: "www.aido.id",
-        //   use: "work"
-        // },
       ],
       address: [
         {
@@ -218,16 +208,6 @@ export async function setHandlerFunctionHospital(request: HospitalRequest, hospi
             value: body.phone,
             use: "work"
           },
-          // {
-          //   system: "email",
-          //   value: "support@aido.id",
-          //   use: "work"
-          // },
-          // {
-          //   system: "url",
-          //   value: "www.aido.id",
-          //   use: "work"
-          // },
         ],
         address: [
           {
