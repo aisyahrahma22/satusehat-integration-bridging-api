@@ -1,9 +1,9 @@
 {
-  "name": "bridge-service",
+  "name": "satusehat-bridging-service",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Samuel Silalahi",
-  "license": "MIT",
+  "author": "Aisyah Rahma",
+  "license": "",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/app.ts",
     "build": "rm -rf build && tsc && npm run build:config",
